@@ -1,4 +1,4 @@
-# 
+# 官方 Glary Utilities 扩展 Mac OS版 | 即时 Glary Utilities 扩展 PC Windows版。集成 文件索引 和 操作日志，跨平台性能最大化。
 
 
 
